@@ -1,6 +1,6 @@
 import { b as createAstro, c as createComponent, r as renderTemplate, u as unescapeHTML, a as renderComponent, m as maybeRenderHead, d as addAttribute } from './bundle-astro/server-CiTTiyOT.js';
 import 'piccolore';
-import { s as siteData, g as getPageData, $ as $$Layout, a as $$Header, b as $$Footer, D as DEFAULT_LANGUAGE } from './bundle-Footer-BofT26yj.js';
+import { s as siteData, g as getPageData, $ as $$Layout, a as $$Header, b as $$Footer, D as DEFAULT_LANGUAGE } from './bundle-Footer-BMDZpCMe.js';
 import 'clsx';
 /* empty css                                */
 

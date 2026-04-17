@@ -1,9 +1,9 @@
 import { b as createAstro, c as createComponent, a as renderComponent, f as renderScript, r as renderTemplate, m as maybeRenderHead, d as addAttribute, F as Fragment } from './bundle-astro/server-CiTTiyOT.js';
 import 'piccolore';
-import { g as getPageData, s as siteData, $ as $$Layout, a as $$Header, D as DEFAULT_LANGUAGE, b as $$Footer } from './bundle-Footer-BofT26yj.js';
-import { g as getCategoryImage, $ as $$AddToCartBtn } from './bundle-categoryImages-DSXWgqVA.js';
+import { g as getPageData, s as siteData, $ as $$Layout, a as $$Header, D as DEFAULT_LANGUAGE, b as $$Footer } from './bundle-Footer-BMDZpCMe.js';
+import { g as getCategoryImage, $ as $$AddToCartBtn } from './bundle-categoryImages-CN-Kj3HC.js';
 import { c as categoriesData, f as formatUrlSlug } from './bundle-urlFormatter-uZsED8vM.js';
-import products from './bundle-products-DmLyizlK.js';
+import products from './bundle-products-CTZbPwh5.js';
 import { g as getProductBrandSlug, b as getProductImage, a as getBrandNameFromSlug } from './bundle-brandUtils-BgBWm2iI.js';
 /* empty css                                */
 

@@ -1,6 +1,6 @@
 import { b as createAstro, c as createComponent, f as renderScript, m as maybeRenderHead, d as addAttribute, r as renderTemplate, a as renderComponent, F as Fragment } from './bundle-astro/server-CiTTiyOT.js';
 import 'piccolore';
-import { s as siteData } from './bundle-Footer-BofT26yj.js';
+import { s as siteData } from './bundle-Footer-BMDZpCMe.js';
 /* empty css                                */
 import fs from 'fs';
 import path from 'path';

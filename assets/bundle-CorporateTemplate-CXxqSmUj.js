@@ -1,6 +1,6 @@
 import { b as createAstro, c as createComponent, a as renderComponent, r as renderTemplate, m as maybeRenderHead, d as addAttribute } from './bundle-astro/server-CiTTiyOT.js';
 import 'piccolore';
-import { g as getPageData, s as siteData, $ as $$Layout, a as $$Header, b as $$Footer, D as DEFAULT_LANGUAGE } from './bundle-Footer-BofT26yj.js';
+import { g as getPageData, s as siteData, $ as $$Layout, a as $$Header, b as $$Footer, D as DEFAULT_LANGUAGE } from './bundle-Footer-BMDZpCMe.js';
 /* empty css                                */
 
 const $$Astro = createAstro("https://www.ob-simatic.com");

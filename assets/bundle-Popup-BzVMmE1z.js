@@ -1,13 +1,13 @@
 import { b as createAstro, c as createComponent, m as maybeRenderHead, d as addAttribute, f as renderScript, r as renderTemplate, u as unescapeHTML, a as renderComponent } from './bundle-astro/server-CiTTiyOT.js';
 import 'piccolore';
 import 'clsx';
-import { s as siteData, c as getLocalizedPath, D as DEFAULT_LANGUAGE } from './bundle-Footer-BofT26yj.js';
+import { s as siteData, c as getLocalizedPath, D as DEFAULT_LANGUAGE } from './bundle-Footer-BMDZpCMe.js';
 import fs from 'node:fs';
 import path from 'node:path';
 /* empty css                                */
 import { c as categoriesData, f as formatUrlSlug } from './bundle-urlFormatter-uZsED8vM.js';
-import { g as getCategoryImage, $ as $$AddToCartBtn } from './bundle-categoryImages-DSXWgqVA.js';
-import products from './bundle-products-DmLyizlK.js';
+import { g as getCategoryImage, $ as $$AddToCartBtn } from './bundle-categoryImages-CN-Kj3HC.js';
+import products from './bundle-products-CTZbPwh5.js';
 import { b as getProductImage, a as getBrandNameFromSlug, g as getProductBrandSlug } from './bundle-brandUtils-BgBWm2iI.js';
 
 const $$Astro$6 = createAstro("https://www.ob-simatic.com");

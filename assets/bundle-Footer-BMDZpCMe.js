@@ -214,7 +214,7 @@ async function getCategories() {
 }
 async function getProducts() {
   try {
-    const prods = await import('./bundle-products-DmLyizlK.js');
+    const prods = await import('./bundle-products-CTZbPwh5.js');
     return prods.default || {};
   } catch {
     console.warn("products.json not found, using empty object");
